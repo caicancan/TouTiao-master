@@ -8,5 +8,6 @@ package com.chaychan.news.app;
 
 public class ApiConstant {
     /**接口根地址*/
+
     public static final String BASE_SERVER_URL = "http://is.snssdk.com/";
 }
